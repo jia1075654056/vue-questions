@@ -1,51 +1,51 @@
-### vscode 使用的插件集合
+# vscode 使用的插件集合（Vue）
 
-# Fitten Code: Faster and Better AI Assistant (强烈推荐，代码AI填充)
+### Fitten Code: Faster and Better AI Assistant (强烈推荐，代码AI填充)
 
-# Git Graph （Git可视化）
+### Git Graph （Git可视化）
 
-# VS Code Counter （代码统计）
+### VS Code Counter （代码统计）
 
-# Live Server （启动 html 服务）
+### Live Server （启动 html 服务）
 
-# Auto Close Tag
+### Auto Close Tag
 
-# Auto Complete Tag
+### Auto Complete Tag
 
-# Auto Rename Tag
+### Auto Rename Tag
 
-# Black Formatter
+### Black Formatter
 
-# EditorConfig for VS Code
+### EditorConfig for VS Code
 
-# ESLint
+### ESLint
 
-# Prettier - Code formatter
+### Prettier - Code formatter
 
-# JavaScript and TypeScript Nightly
+### JavaScript and TypeScript Nightly
 
-# Markdown All in One
+### Markdown All in One
 
-# Markdown Preview Enhanced
+### Markdown Preview Enhanced
 
-# Markdown Preview Github Styling
+### Markdown Preview Github Styling
 
-# Region Highlighter
+### Region Highlighter
 
-# Sass (.sass only)
+### Sass (.sass only)
 
-# SCSS Formatter
+### SCSS Formatter
 
-# Search node_modules
+### Search node_modules
 
-# Tailwind CSS IntelliSense
+### Tailwind CSS IntelliSense
 
-# Text Transformer for VS Code
+### Text Transformer for VS Code
 
-# UnoCSS
+### UnoCSS
 
-# Vitest
+### Vitest
 
-# Vue - Official
+### Vue - Official
 
-# Vue 3 Snippets
+### Vue 3 Snippets
